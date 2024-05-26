@@ -6,6 +6,8 @@ Screen Recorder is a simple yet powerful software for recording your computer sc
 
 ## Preview
 
+https://github.com/negi153/Screen_Recorder/assets/27079205/38442a55-7667-4ffc-b109-865a56b59d5c
+
 ## Features
 
 - **Start and Stop Recording**: Easily initiate and terminate screen recording sessions with the click of a button.
